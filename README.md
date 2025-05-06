@@ -9,10 +9,10 @@
   seeingangelz@GitHub
   -----------------
   Name: aeon
-  Languages: ["C", "ShellScript", "Go", "Lua"]
-  Interests: ["Linux", "CyberSecurity", "FOSS"]
+  Languages: ["Lua"]
+  Interests: ["Linux", "CyberSecurity"]
   OS: ArchLinux
-  WM: DWM
+  WM: hyprland
   ```
 </div>
 <br />
