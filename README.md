@@ -1,5 +1,5 @@
 ```css
-┌[seeingangelz☮git]-(~)
+┌[OmniH3x@git]-(~)
 └> aeonfetch
 ```
  
