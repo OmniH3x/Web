@@ -9,7 +9,7 @@
   OmniH3x@github
   -----------------
   Name: aeon
-  Languages: ["Lua"]
+  Languages: ["C#"]
   Interests: ["Linux", "CyberSecurity"]
   OS: ArchLinux
   WM: hyprland
